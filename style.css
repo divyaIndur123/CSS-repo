@@ -1,0 +1,74 @@
+*{
+
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+   
+    
+}
+.container {
+  
+    background-color: #CDDC39;
+    margin: 12% 30%;
+    background-color: white;
+    border: 2px solid #bce8f1;
+    border-radius: 4px;
+    
+  }
+  .header {
+    padding: 10px 15px;
+    background-color: #D9EDF7;
+    border: 1px solid #bce8f1;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    color: #31708f;
+}
+div#form-body {
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+
+
+.text-input {
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+input[type="textbox"] {
+    width: 85%;
+    padding: 10px;
+    border-radius: 9px;
+    border:1px solid #ccc;
+ 
+}
+button.button {
+    padding: 9px 22px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+#login-button{
+
+    color: #fff;
+    background-color: #5cb85c;
+    border-color: #4cae4c;
+}
+
+#facebook-button{
+    color: #fff;
+    background-color: #428bca;
+    border-color: #357ebd;
+}
+
+.remember-me {
+    padding: 6px;
+}
+
+input[type="checkbox"] {
+    margin: 8px;
+}
+
+span#SignIn {
+    margin-right: 400px;
+
+}
